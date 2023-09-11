@@ -9,8 +9,23 @@ export default {
             type: 'string',
         },
         {
-            name: 'about',
-            title: 'About',
+            name: 'description',
+            title: 'Description',
+            type: 'string',
+        },
+        {
+            name: 'ingredients',
+            title: 'Ingredients',
+            type: 'string',
+        },
+        {
+            name: 'instructions',
+            title: 'Instructions',
+            type: 'string',
+        },
+        {
+            name: 'cost',
+            title: 'Cost',
             type: 'string',
         },
         {
